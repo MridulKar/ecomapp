@@ -1,7 +1,7 @@
      @extends('Layout.structure')
      @section('body')
 
-     @endsection
+  
 
         <!-- Bottom Bar Start -->
         <div class="bottom-bar">
